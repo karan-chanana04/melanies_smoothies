@@ -6,7 +6,7 @@ from snowflake.snowpark.functions import col
 #streamlit.title("My parents neew Healthy Diner")
 
 # Write directly to the app
-st.title(":cup_with_straw: My parents new Healthy Diner :cup_with_straw:")
+st.title("My parents new Healthy Diner")
 st.write(
     """Replace this example with your own code!
     **And if you're new to Streamlit,** check
